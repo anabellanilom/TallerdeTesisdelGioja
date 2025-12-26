@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "integrantes.html#camila-fernández-meijide",
+    "href": "integrantes.html#camila-fernández-meijide",
+    "title": "Profesoras",
+    "section": "Camila Fernández Meijide",
+    "text": "Camila Fernández Meijide"
+  },
+  {
+    "objectID": "integrantes.html#maría-eugenia-miguez",
+    "href": "integrantes.html#maría-eugenia-miguez",
+    "title": "Profesoras",
+    "section": "María Eugenia Miguez",
+    "text": "María Eugenia Miguez"
+  },
+  {
+    "objectID": "integrantes.html#anabella-molina",
+    "href": "integrantes.html#anabella-molina",
+    "title": "Profesoras",
+    "section": "Anabella Molina",
+    "text": "Anabella Molina"
+  },
+  {
+    "objectID": "integrantes.html#samanta-delas",
+    "href": "integrantes.html#samanta-delas",
+    "title": "Profesoras",
+    "section": "Samanta Delas",
+    "text": "Samanta Delas"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sobre el taller",
+    "section": "",
+    "text": "Sobre el taller"
+  },
+  {
+    "objectID": "inscripciones.html",
+    "href": "inscripciones.html",
+    "title": "Inscripciones y cursada",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "inscripciones.html#quarto",
+    "href": "inscripciones.html#quarto",
+    "title": "Inscripciones y cursada",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "inscripciones.html#running-code",
+    "href": "inscripciones.html#running-code",
+    "title": "Inscripciones y cursada",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]

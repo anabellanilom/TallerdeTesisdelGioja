@@ -1,0 +1,7 @@
+---
+title: "Sobre el taller"
+format: html
+editor: visual
+---
+
+Sobre el taller 

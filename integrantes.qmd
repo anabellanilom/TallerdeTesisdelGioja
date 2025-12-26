@@ -1,0 +1,15 @@
+---
+title: "Profesoras"
+format: html
+editor: visual
+---
+
+## Sofia Aguilar
+
+## Camila Fernández Meijide
+
+## María Eugenia Miguez 
+
+## Anabella Molina 
+
+## Samanta Delas

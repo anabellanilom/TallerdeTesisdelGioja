@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Taller de tesis del Instituto Gioja"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Sobre el taller
+      - href: integrantes.qmd
+        text: Profesoras
+      - href: inscripciones.qmd
+        text: Inscripciones y cursada
+    right:
+      - icon: github
+        href: https://github.com/anabellanilom/TallerdeTesisdelGioja
+      - icon: envelope
+        href: mailto:tallerdetesisgioja@gmail.com
+        
+  page-footer:
+    left: "© 2025 Anabella Molina. Contenido bajo licencia <a href='https://creativecommons.org/licenses/by-nc/4.0/'>CC BY-NC 4.0</a>"
+    center: "Hecho con [Quarto](https://quarto.org)"
+    right: "Alojado en [GitHub Pages](https://pages.github.com)"
+   
+format:
+  html:
+    css: styles.css
+    theme: cosmo
+    toc: true
